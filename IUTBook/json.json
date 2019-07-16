@@ -1,0 +1,40 @@
+1.
+{
+    "firstName": "string",
+    "fs": 0,
+    "group": {
+      "department": "string",
+      "groupId": 0,
+      "noOfGroup": "string"
+    },
+    "lastName": "string",
+    "userId": "string",
+    "uuid": 0
+  }
+
+
+2.
+  {
+    "group": {
+      "department": "string",
+      "groupId": 0,
+      "noOfGroup": "string"
+    },
+    "timetable": "string",
+    "timetableId": 0
+  }
+
+3.
+
+{
+    "firstName": "string",
+    "fs": 0,
+    "group": {
+      "department": "string",
+      "groupId": 0,
+      "noOfGroup": "string"
+    },
+    "lastName": "string",
+    "userId": "string",
+    "uuid": 0
+  }
